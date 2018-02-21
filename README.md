@@ -1,3 +1,2 @@
 # GTAV-Tatouages
-
-Informations sur les tatouages
+Conversion des skins entre hash et nom
